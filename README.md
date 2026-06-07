@@ -6,7 +6,7 @@ Software developer based in Lahore, Pakistan. CS graduate from COMSATS Universit
 
 ###  Currently working on
 
-**Tabeeb** — a healthcare management platform with role-based access control (RBAC), AI integration (LLM API), payment gateway integration, Firebase Auth, and a PWA frontend. Full stack: React · Express · MySQL · Docker.
+**Tabeeb-Healthcare:** A healthcare management platform with role-based access control (RBAC), AI integration (LLM API), payment gateway integration, Firebase Auth, and a PWA frontend. Full stack: React · Express · MySQL · Docker.
 
 ---
 
